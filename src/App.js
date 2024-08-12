@@ -8,7 +8,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/GooglePay_Clone" element={<Test />} />
+        <Route path="/GooglePayClone" element={<Test />} />
         <Route path="/DashBoard" element={<DashBoard />} />
         <Route path="/Profile" element={<Profile />}/>
       </Routes>
