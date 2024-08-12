@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ChewangGyalpuBhutia/GooglePayClone/static/css/main.a68e655d.css",
+    "main.js": "/ChewangGyalpuBhutia/GooglePayClone/static/js/main.82a43f34.js",
+    "static/js/787.7606e831.chunk.js": "/ChewangGyalpuBhutia/GooglePayClone/static/js/787.7606e831.chunk.js",
+    "static/media/google_pay_background.jpg": "/ChewangGyalpuBhutia/GooglePayClone/static/media/google_pay_background.5f7e11aaae18e749845f.jpg",
+    "static/media/logo.png": "/ChewangGyalpuBhutia/GooglePayClone/static/media/logo.fcbe59f91821d82a16a7.png",
+    "static/media/profile_pic.png": "/ChewangGyalpuBhutia/GooglePayClone/static/media/profile_pic.077086a0654634be593c.png",
+    "static/media/rewards.png": "/ChewangGyalpuBhutia/GooglePayClone/static/media/rewards.11e0254f412e270a0ee0.png",
+    "static/media/offers_bg.jpg": "/ChewangGyalpuBhutia/GooglePayClone/static/media/offers_bg.c952d64fe8e5830a8715.jpg",
+    "static/media/wallet.png": "/ChewangGyalpuBhutia/GooglePayClone/static/media/wallet.cf00d6f9a936367cf90e.png",
+    "static/media/pay_contacts.png": "/ChewangGyalpuBhutia/GooglePayClone/static/media/pay_contacts.0183651736350894ad05.png",
+    "static/media/flipkart.png": "/ChewangGyalpuBhutia/GooglePayClone/static/media/flipkart.fb0dc9e9e1eae9ad762b.png",
+    "index.html": "/ChewangGyalpuBhutia/GooglePayClone/index.html",
+    "static/media/paper_plane.svg": "/ChewangGyalpuBhutia/GooglePayClone/static/media/paper_plane.3003351d7c9124f6bbc956bda28c67aa.svg",
+    "main.a68e655d.css.map": "/ChewangGyalpuBhutia/GooglePayClone/static/css/main.a68e655d.css.map",
+    "main.82a43f34.js.map": "/ChewangGyalpuBhutia/GooglePayClone/static/js/main.82a43f34.js.map",
+    "787.7606e831.chunk.js.map": "/ChewangGyalpuBhutia/GooglePayClone/static/js/787.7606e831.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a68e655d.css",
+    "static/js/main.82a43f34.js"
+  ]
+}
